@@ -1,0 +1,14 @@
+-Authentication
+    -register
+    -login
+    -logout
+
+-Post CRUD with Permission
+-Like/unlike
+-comment system
+-popular post/author
+-searching system 
+-All posts, own post, friends
+-friend list with pagination
+-mailing system
+-online user
